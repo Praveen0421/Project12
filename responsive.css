@@ -107,7 +107,7 @@
 }
 @media only screen and (max-width: 624px) {
   .hero-texts {
-    top: 20px;
+    top: 100px;
   }
   .hero-img {
     position: relative;
@@ -163,7 +163,7 @@
 }
 @media only screen and (max-width: 424px) {
   .hero-texts {
-    top: 180px;
+    top: 50px;
   }
   .hero-img {
     position: relative;
