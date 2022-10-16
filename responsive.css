@@ -1,0 +1,244 @@
+@media only screen and (max-width: 1280px) {
+  * {
+    border: 1px solid;
+  }
+  .hero-texts {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    left: 0px;
+    top: 70px;
+  }
+  .hero-img {
+    position: relative;
+    top: -30px;
+    right: 0px;
+    height: 500px;
+  }
+  .hero-heading {
+    font-size: 55px;
+    padding-bottom: 0px;
+    text-align: center;
+  }
+  /* operating system */
+  .operating-system {
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    justify-content: center;
+  }
+  .oprating-system-img {
+    position: relative;
+    top: 30px;
+    left: 0px;
+    height: 500px;
+  }
+  .operating-system-info {
+    position: relative;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .feature-info {
+    position: relative;
+    top: 80px;
+    right: 0px;
+  }
+  .operating-system-heading {
+    position: relative;
+    right: 0px;
+    font-size: 40px;
+  }
+  /* card */
+  .cards {
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 100px;
+  }
+  .card-collection {
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  .card1 {
+    margin-left: 40px;
+  }
+  .card2 {
+    margin: 0px 40px;
+  }
+  .card3 {
+    margin: 40px 40px 0px 0px;
+  }
+  .card4 {
+    margin: 40px 0px 0px 0px;
+  }
+}
+@media only screen and (max-width: 780px) {
+  .list-items {
+    display: none;
+  }
+  .nav-btn {
+    display: none;
+  }
+  .logo {
+    position: relative;
+    left: -100px;
+  }
+  .bar {
+    position: relative;
+    right: -100px;
+    display: block;
+  }
+  .card {
+    height: 350px;
+    width: 250px;
+  }
+  .card-icon {
+    font-size: 50px;
+  }
+  .card-icon-background {
+    height: 100px;
+    width: 100px;
+  }
+}
+@media only screen and (max-width: 624px) {
+  .hero-texts {
+    top: 100px;
+  }
+  .hero-img {
+    position: relative;
+    top: -80px;
+    right: 0px;
+    height: 400px;
+  }
+  .hero-heading {
+    font-size: 50px;
+    padding-bottom: 100px;
+  }
+
+  .logo {
+    left: -50px;
+  }
+  .bar {
+    right: -50px;
+  }
+  /* opretating */
+  .oprating-system-img {
+    position: relative;
+    top: 30px;
+    left: 0px;
+    height: 400px;
+  }
+  /* card */
+  .card-collection {
+    justify-content: space-around;
+  }
+  .card {
+    height: 350px;
+    width: 250px;
+  }
+  .card-icon {
+    font-size: 50px;
+  }
+  .card-icon-background {
+    height: 100px;
+    width: 100px;
+  }
+  .card1 {
+    margin-left: 00px;
+  }
+  .card2 {
+    margin: 40px 0px 0px 0px;
+  }
+  .card3 {
+    margin: 40px 0px 0px 0px;
+  }
+  .card4 {
+    margin: 40px 0px 0px 0px;
+  }
+}
+@media only screen and (max-width: 424px) {
+  .hero-texts {
+    top: 180px;
+  }
+  .hero-img {
+    position: relative;
+    top: -80px;
+    right: 0px;
+    height: 250px;
+  }
+  .hero-heading {
+    font-size: 40px;
+    padding-bottom: 100px;
+  }
+  .hero-para {
+    text-align: center;
+  }
+  .logo {
+    left: -20px;
+    height: 35px;
+  }
+  .bar {
+    right: -20px;
+    height: 35px;
+  }
+  /* oprating */
+  .oprating-system-img {
+    position: relative;
+    top: 30px;
+    left: 0px;
+    height: 300px;
+  }
+  .operating-system-heading {
+    font-size: 28px;
+  }
+  .features-heading {
+    font-size: 25px;
+  }
+  .features-para {
+    left: 0px;
+    font-size: 18px;
+  }
+  /* card */
+  .cards {
+    margin-top: 100px;
+  }
+  .card-collection {
+    justify-content: space-around;
+  }
+  .card {
+    height: 350px;
+    width: 250px;
+  }
+  .card-main-heading {
+    text-align: center;
+    font-size: 25px;
+    padding: 80px;
+  }
+  .card-icon {
+    font-size: 50px;
+  }
+  .card-icon-background {
+    height: 100px;
+    width: 100px;
+  }
+  .card1 {
+    margin-left: 00px;
+  }
+  .card2 {
+    margin: 40px 0px 0px 0px;
+  }
+  .card3 {
+    margin: 40px 0px 0px 0px;
+  }
+  .card4 {
+    margin: 40px 0px 0px 0px;
+  }
+}
