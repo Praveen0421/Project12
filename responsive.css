@@ -1,7 +1,4 @@
 @media only screen and (max-width: 1280px) {
-  * {
-    border: 1px solid;
-  }
   .hero-texts {
     position: relative;
     display: flex;
